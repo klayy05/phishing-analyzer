@@ -1,0 +1,22 @@
+From: "PayPal Security" <alert@payp4l-secure.xyz>
+To: victim@gmail.com
+Subject: URGENT: Your account has been suspended
+Date: Mon, 14 Apr 2026 09:00:00 +0000
+Message-ID: <abc123@payp4l-secure.xyz>
+Reply-To: collect@harvest99.top
+Authentication-Results: mx.google.com; spf=fail; dkim=fail; dmarc=fail
+Received: from mail.evil-relay.ru (185.220.101.47) by mx.google.com
+
+Dear Customer,
+
+Your PayPal account has been suspended due to suspicious activity.
+You must verify your account immediately or it will be permanently closed.
+
+Please confirm your login and update your password now:
+http://payp4l-secure.xyz/login?redirect=confirm&session=8f2a91c
+http://185.220.101.47/track?uid=usr_4492
+
+This is urgent. Failure to act will result in account termination.
+Click here to restore access to your account security settings.
+
+PayPal Security Team
